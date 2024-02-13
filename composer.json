@@ -11,10 +11,10 @@
     }
   ],
   "keywords": [
-    "ashallendesign",
     "short-urls",
     "url-shortener",
     "laravel",
+    "laravel 10",
     "laravel-package"
   ],
   "require": {
